@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ear45 or Loren
+- 👀 I’m interested in learning how to code 
+- 🌱 I’m currently learning the basics
+- 💞️ I’m looking to collaborate on game devlopment?
+- 📫 How to reach me: loren.pinkham@gmail.com, @lorenpinkham on Instagram
